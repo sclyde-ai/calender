@@ -16,15 +16,15 @@ table{
     transform: translate(-40vmin);
 }
 
-.week{
+/* .week{
     height: 4vmin;
-}
+} */
 th{
     border: 1px solid black;
     border-style:inset;
     font-size: 4vmin;
     width: 10vmin;
-    height: 2vmin;
+    height: 4vmin;
 }
 .sun{
     background-color: rgb(248, 80, 80);
