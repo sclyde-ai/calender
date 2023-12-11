@@ -19,7 +19,7 @@ for(let i = 1; i <= mon; i++){
       }
       
     }
-  document.getElementById("a" + i ).addEventListener('click', hoge, false); // get id & set event
+  document.getElementById("a" + i ).addEventListener('tuchstart', hoge, false); // get id & set event
 }
 
 function appoint(event){
